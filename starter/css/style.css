@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+/* header */
+header{
+  background-color:grey;
+}
+
+/* nav-bar */
+nav{
+
+}
+li{
+  list-style-type: none;
+  padding:10px;
+}
+
+ul{
+  display:flex;
+  justify-content: flex-end;
+  position:relative;
+  bottom: 30px;
+}
+
+h1{
+  background-color: cadetblue;
+}
